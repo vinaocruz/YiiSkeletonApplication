@@ -3,3 +3,5 @@ protected/runtime/*
 !.gitignore
 *.db
 *.sublime-*
+protected/vendor/
+composer.lock
